@@ -32,6 +32,8 @@ To Setup the game we have 3 main configs.
 
 Simulation uses the same functionality as the real game
 
+**ISimulationController**
+
 #### Make random moves in one frame without animations
 
 ```
